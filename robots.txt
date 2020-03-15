@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zeideimaep.bmstu-e3.ru/sitemap.xml
